@@ -1,6 +1,6 @@
-LTPAlarm
+LPTAlarm
 ========
-Alarm project using LTP port 
+Alarm project using LPT port 
 
 
 Compiler & Compile
